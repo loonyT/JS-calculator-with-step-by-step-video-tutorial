@@ -1,6 +1,6 @@
 ## Livre preview : 
 
-
+https://loonyt.github.io/JS-calculator-with-step-by-step-video-tutorial/.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -28,22 +28,13 @@ This section should list any major frameworks that you built your project using.
 * CSS
 
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 
 practicing JS logic
 
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-
-
-
